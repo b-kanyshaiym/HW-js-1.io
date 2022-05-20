@@ -1,4 +1,6 @@
-let userName;
-userName = prompt("Как Вас зовут?");
+// 1. Сохрагите текстовое сообщение в переменной и выведите его в браузере.
 
-alert("Привет " + userName);
+let str = "Hello!.";
+alert(str);
+console.log(str);
+document.write("1. " + str);
